@@ -28,3 +28,4 @@ A **lightweight alternative to React Helmet** — manage your document `<head>` 
 npm install react-head-lite
 # or
 yarn add react-head-lite
+

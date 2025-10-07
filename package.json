@@ -1,0 +1,53 @@
+{
+  "name": "react-head-lite",
+  "version": "1.0.2",
+  "description": "A lightweight alternative to React Helmet for managing document head in React.",
+  "main": "index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirfaysal11/react-head-lite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanvirfaysal11/react-head-lite/issues"
+  },
+  "homepage": "https://github.com/tanvirfaysal11/react-head-lite#readme",
+  "keywords": [
+    "react",
+    "helmet",
+    "react-helmet",
+    "head",
+    "meta",
+    "seo",
+    "document-head",
+    "html-attributes",
+    "body-attributes",
+    "lightweight",
+    "react-head",
+    "react-head-lite",
+    "react-helmet-alternative",
+    "react-meta",
+    "head-manager"
+  ],
+  "author": "tanvir-faysal <t.faysal45@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17",
+    "react-dom": ">=17"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "^5.9.3"
+  }
+}
