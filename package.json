@@ -1,6 +1,6 @@
 {
   "name": "react-head-lite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight alternative to React Helmet for managing document head in React.",
   "main": "index.js",
   "module": "dist/index.es.js",
